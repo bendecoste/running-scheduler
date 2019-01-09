@@ -1,0 +1,17 @@
+{
+  "name": "running_scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.1.0",
+    "ical-generator": "^1.4.3",
+    "lodash": "^4.17.11",
+    "xlsx": "^0.14.1"
+  }
+}
